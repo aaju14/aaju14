@@ -1,6 +1,7 @@
 <h1 align="center">Hi 👋, I'm aaju14</h1>
 <h3 align="center">A passionate Data Scientist from India</h3>
 
+- ![code-developer](https://user-images.githubusercontent.com/104867875/166570177-377cd788-54c8-424a-9728-5953262b1046.gif)
 - 🔭 I’m currently working on ****Data Analysis and Machine Learning****
 
 - 🌱 I’m currently learning ****Deep Learning and AI****
