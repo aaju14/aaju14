@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm aaju14</h1>
+<h1 align="center">Hi 👋, I'm ajinkya14</h1>
 <h3 align="center">A passionate Data Scientist from India</h3>
 
 - ![code-developer](https://user-images.githubusercontent.com/104867875/166570177-377cd788-54c8-424a-9728-5953262b1046.gif)
